@@ -1,5 +1,5 @@
 # TypeChallnge
-타입챌린지 레포지토리입니다.
+타입챌린지 레포지토리입니다. [문제집](https://github.com/type-challenges/type-challenges/blob/main/README.ko.md)
 
 ## 📚 목적
 
