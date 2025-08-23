@@ -60,3 +60,18 @@ type U = 'a' | 'b' | 'c'
 type MakeFlags<K extends string> = { [P in K]: boolean }
 type Flags = MakeFlags<U>   // { a: boolean; b: boolean; c: boolean }
 
+/**
+ * 맵드 타입의 수정자. (Modifiers)
+ *
+ * >> 매핑 과정에서 옵셔널/readonly를 강제하거나 제거할 수 있다.
+ */
+interface Profile {
+  id: number
+  nickname?: string
+  readonly createdAt: Date
+}
+
+type RequiredProfile = { [P in keyof Profile]-?: Profile[P] }         // 모든 프로퍼티를 "필수(Required)"로 변경
+type OptionalProfile = { [P in keyof Profile]+?: Profile[P] }         // 모든 프로퍼티를 "선택(Optional)"으로 변경
+type MutableProfile = { -readonly [P in keyof Profile]: Profile[P] }  // 모든 프로퍼티를 "읽기 전용 해제"
+type ReadonlyProfile = { readonly [P in keyof Profile]: Profile[P] }  // 모든 프로퍼티를 "읽기 전용"으로 변경 (+readonly와 동일)
