@@ -44,24 +44,7 @@
 
 ## 🤝 Convention
 
-### commit
-
-```
-<tag>: <problem_name>
-```
-
-1. 문제별로 파일을 만든다. ex) Pick.ts
-
-2. 문제별로 각각 commit
-
-3. tag는 소문자로 작성
-
-   | tag      | 설명                                |
-   | -------- | ---------------------------------- |
-   | feat     | 문제 제출                            |
-   | refactor | 리팩토링                             |
-   | style    | formatting, missing semi colons 등 |
-   | docs     | documentation                      |
+**파일 명** : 문제별로 파일을 만든다. ex) Pick.ts
 
 ### PR Title
 
@@ -70,7 +53,7 @@
 ```
 PR 제목은 모두 소문자로 작성
 
-### 커밋, 리뷰내용
+### 리뷰내용
 
 - 문제별로 파일 맨밑에 본인의 **문제풀이 사고과정**을 적습니다.
 ``` typescript
