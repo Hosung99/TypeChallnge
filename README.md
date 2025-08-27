@@ -122,7 +122,39 @@ Pick타입에서 T를 배열형태로 어떻게 접근해야 할 지 떠오르�
 </details>
 
 <details>
-<summary><strong>📅 Week 02</strong> (~08/30)</summary>
+   <summary><strong>Week 02 타입스크립트 키워드 공부 (~08/31)</summary>
+
+<p>
+   
+공부 키워드
+```typescript
+extends.: ex) T extneds 
+extends: 조건문일때 
+배열, 객체에 접근시 (인덱싱)
+union, intersection
+keyof 
+typeof
+infer 
+in
+readonly
+?(optional)
+never
+unknown
+any
+is
+satisfies
+as
+as const
+generic
+void
+tuple
+```
+</p>
+각 키워드들에 대해 README.md파일(본인이름의 디렉토리에)로 작성해주세요.
+</details>
+
+<details>
+<summary><strong>📅 Week 03</strong> (~09/06)</summary>
 
 <br/>
 
@@ -165,7 +197,7 @@ Pick타입에서 T를 배열형태로 어떻게 접근해야 할 지 떠오르�
 </details>
 
 <details>
-<summary><strong>📅 Week 03</strong> (~09/06)</summary>
+<summary><strong>📅 Week 04</strong> (~09/13)</summary>
 
 <br/>
 
@@ -206,7 +238,7 @@ Pick타입에서 T를 배열형태로 어떻게 접근해야 할 지 떠오르�
 </details>
 
 <details>
-<summary><strong>📅 Week 04</strong> (~09/13)</summary>
+<summary><strong>📅 Week 05</strong> (~09/20)</summary>
 
 <br/>
 
@@ -247,7 +279,7 @@ Pick타입에서 T를 배열형태로 어떻게 접근해야 할 지 떠오르�
 </details>
 
 <details>
-<summary><strong>📅 Week 05</strong> (~09/20)</summary>
+<summary><strong>📅 Week 06</strong> (~09/26)</summary>
 
 <br/>
 
@@ -288,7 +320,7 @@ Pick타입에서 T를 배열형태로 어떻게 접근해야 할 지 떠오르�
 </details>
 
 <details>
-<summary><strong>📅 Week 06</strong> (~09/26)</summary>
+<summary><strong>📅 Week 07</strong> (~10/03)</summary>
 
 <br/>
 
