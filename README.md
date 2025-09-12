@@ -187,13 +187,6 @@ tuple
 - [![ObjectEntries](https://img.shields.io/badge/02946-ObjectEntries-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/02946-medium-objectentries/README.ko.md)
 - [![Shift](https://img.shields.io/badge/03062-Shift-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/03062-medium-shift/README.ko.md)
 
-**어려움 (5문제)**
-- [![Promise.all](https://img.shields.io/badge/00020-Promise.all-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00020-medium-promise-all/README.ko.md)
-- [![String to Number](https://img.shields.io/badge/00300-String%20to%20Number-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00300-hard-string-to-number/README.ko.md)
-- [![Length of String 2](https://img.shields.io/badge/00651-Length%20of%20String%202-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00651-hard-length-of-string-2/README.ko.md)
-- [![Drop String](https://img.shields.io/badge/02059-Drop%20String-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/02059-hard-drop-string/README.ko.md)
-- [![Split](https://img.shields.io/badge/02822-Split-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/02822-hard-split/README.ko.md)
-
 </details>
 
 <details>
@@ -228,13 +221,6 @@ tuple
 - [![Number Range](https://img.shields.io/badge/08640-Number%20Range-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/08640-medium-number-range/README.ko.md)
 - [![Combination](https://img.shields.io/badge/08767-Combination-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/08767-medium-combination/README.ko.md)
 
-**어려움 (5문제)**
-- [![Simple Vue](https://img.shields.io/badge/00006-Simple%20Vue-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00006-hard-simple-vue/README.ko.md)
-- [![Union to Intersection](https://img.shields.io/badge/00055-Union%20to%20Intersection-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00055-hard-union-to-intersection/README.ko.md)
-- [![Get Required](https://img.shields.io/badge/00057-Get%20Required-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00057-hard-get-required/README.ko.md)
-- [![Get Optional](https://img.shields.io/badge/00059-Get%20Optional-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00059-hard-get-optional/README.ko.md)
-- [![Tuple Filter](https://img.shields.io/badge/00399-Tuple%20Filter-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00399-hard-tuple-filter/README.ko.md)
-
 </details>
 
 <details>
@@ -264,18 +250,6 @@ tuple
 - [![Square](https://img.shields.io/badge/27133-Square-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/27133-medium-square/README.ko.md)
 - [![Triangular number](https://img.shields.io/badge/27152-Triangular%20number-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/27152-medium-triangular-number/README.ko.md)
 
-**어려움 (10문제)**
-- [![Currying 1](https://img.shields.io/badge/00017-Currying%201-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00017-hard-currying-1/README.ko.md)
-- [![Required Keys](https://img.shields.io/badge/00089-Required%20Keys-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00089-hard-required-keys/README.ko.md)
-- [![Optional Keys](https://img.shields.io/badge/00090-Optional%20Keys-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00090-hard-optional-keys/README.ko.md)
-- [![Capitalize Words](https://img.shields.io/badge/00112-Capitalize%20Words-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00112-hard-capitalizewords/README.ko.md)
-- [![CamelCase](https://img.shields.io/badge/00114-CamelCase-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00114-hard-camelcase/README.ko.md)
-- [![C-printf Parser](https://img.shields.io/badge/00147-C--printf%20Parser-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00147-hard-c-printf-parser/README.ko.md)
-- [![Vue Basic Props](https://img.shields.io/badge/00213-Vue%20Basic%20Props-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00213-hard-vue-basic-props/README.ko.md)
-- [![IsAny](https://img.shields.io/badge/00223-IsAny-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00223-hard-isany/README.ko.md)
-- [![Typed Get](https://img.shields.io/badge/00270-Typed%20Get-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00270-hard-typed-get/README.ko.md)
-- [![Tuple to Enum Object](https://img.shields.io/badge/00472-Tuple%20to%20Enum%20Object-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00472-hard-tuple-to-enum-object/README.ko.md)
-
 </details>
 
 <details>
@@ -300,51 +274,5 @@ tuple
 - [![Trace](https://img.shields.io/badge/35191-Trace-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/35191-medium-trace/README.ko.md)
 - [![IsAlphabet](https://img.shields.io/badge/35252-IsAlphabet-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/35252-medium-isalphabet/README.ko.md)
 - [![MyUppercase](https://img.shields.io/badge/35991-MyUppercase-d9901a)](https://github.com/type-challenges/type-challenges/blob/main/questions/35991-medium-myuppercase/README.ko.md)
-
-**어려움 (14문제)**
-- [![Printf](https://img.shields.io/badge/00545-Printf-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00545-hard-printf/README.ko.md)
-- [![Deep Object to Unique](https://img.shields.io/badge/00553-Deep%20Object%20to%20Unique-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00553-hard-deep-object-to-unique/README.ko.md)
-- [![Union to Tuple](https://img.shields.io/badge/00730-Union%20to%20Tuple-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00730-hard-union-to-tuple/README.ko.md)
-- [![String Join](https://img.shields.io/badge/00847-String%20Join-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00847-hard-string-join/README.ko.md)
-- [![DeepPick](https://img.shields.io/badge/00956-DeepPick-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/00956-hard-deeppick/README.ko.md)
-- [![Pinia](https://img.shields.io/badge/01290-Pinia-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/01290-hard-pinia/README.ko.md)
-- [![Camelize](https://img.shields.io/badge/01383-Camelize-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/01383-hard-camelize/README.ko.md)
-- [![ClassPublicKeys](https://img.shields.io/badge/02828-ClassPublicKeys-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/02828-hard-classpublickeys/README.ko.md)
-- [![IsRequiredKey](https://img.shields.io/badge/02857-IsRequiredKey-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/02857-hard-isrequiredkey/README.ko.md)
-- [![ObjectFromEntries](https://img.shields.io/badge/02949-ObjectFromEntries-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/02949-hard-objectfromentries/README.ko.md)
-- [![IsPalindrome](https://img.shields.io/badge/04037-IsPalindrome-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/04037-hard-ispalindrome/README.ko.md)
-- [![Mutable Keys](https://img.shields.io/badge/05181-Mutable%20Keys-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/05181-hard-mutable-keys/README.ko.md)
-- [![Intersection](https://img.shields.io/badge/05423-Intersection-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/05423-hard-intersection/README.ko.md)
-- [![Binary to Decimal](https://img.shields.io/badge/06141-Binary%20to%20Decimal-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/06141-hard-binary-to-decimal/README.ko.md)
-
-</details>
-
-<details>
-<summary><strong>📅 Week 07</strong> (~10/03)</summary>
-
-<br/>
-
-**어려움 (21문제)**
-- [![Object Key Paths](https://img.shields.io/badge/07258-Object%20Key%20Paths-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/07258-hard-object-key-paths/README.ko.md)
-- [![Two Sum](https://img.shields.io/badge/08804-Two%20Sum-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/08804-hard-two-sum/README.ko.md)
-- [![ValidDate](https://img.shields.io/badge/09155-ValidDate-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/09155-hard-validdate/README.ko.md)
-- [![Assign](https://img.shields.io/badge/09160-Assign-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/09160-hard-assign/README.ko.md)
-- [![Maximum](https://img.shields.io/badge/09384-Maximum-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/09384-hard-maximum/README.ko.md)
-- [![Capitalize Nest Object Keys](https://img.shields.io/badge/09775-Capitalize%20Nest%20Object%20Keys-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/09775-hard-capitalize-nest-object-keys/README.ko.md)
-- [![Replace Union](https://img.shields.io/badge/13580-Replace%20Union-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/13580-hard-replace-union/README.ko.md)
-- [![FizzBuzz](https://img.shields.io/badge/14080-FizzBuzz-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/14080-hard-fizzbuzz/README.ko.md)
-- [![Run-length encoding](https://img.shields.io/badge/14188-Run--length%20encoding-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/14188-hard-run-length-encoding/README.ko.md)
-- [![Tree path array](https://img.shields.io/badge/15260-Tree%20path%20array-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/15260-hard-tree-path-array/README.ko.md)
-- [![SnakeCase](https://img.shields.io/badge/19458-SnakeCase-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/19458-hard-snakecase/README.ko.md)
-- [![IsNegativeNumber](https://img.shields.io/badge/25747-IsNegativeNumber-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/25747-hard-isnegativenumber/README.ko.md)
-- [![OptionalUndefined](https://img.shields.io/badge/28143-OptionalUndefined-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/28143-hard-optionalundefined/README.ko.md)
-- [![Unique Items](https://img.shields.io/badge/30178-Unique%20Items-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/30178-hard-unique-items/README.ko.md)
-- [![BitwiseXOR](https://img.shields.io/badge/30575-BitwiseXOR-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/30575-hard-bitwisexor/README.ko.md)
-- [![Sudoku](https://img.shields.io/badge/31797-Sudoku-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/31797-hard-sudoku/README.ko.md)
-- [![Length of String 3](https://img.shields.io/badge/31824-Length%20of%20String%203-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/31824-hard-length-of-string-3/README.ko.md)
-- [![Unbox](https://img.shields.io/badge/32427-Unbox-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/32427-hard-unbox/README.ko.md)
-- [![Binary Addition](https://img.shields.io/badge/32532-Binary%20Addition-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/32532-hard-binary-addition/README.ko.md)
-- [![Union to Object from Key](https://img.shields.io/badge/33763-Union%20to%20Object%20from%20Key-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/33763-hard-union-to-object-from-key/README.ko.md)
-- [![Take Elements](https://img.shields.io/badge/34286-Take%20Elements-de3d37)](https://github.com/type-challenges/type-challenges/blob/main/questions/34286-hard-take-elements/README.ko.md)
 
 </details>
